@@ -1,0 +1,615 @@
+[
+  {
+    "id": "PSI-22",
+    "title": "Advanced Combustion via Microgravity Experiments Electric-Field Effects on Laminar Diffusion Flames",
+    "files": [
+      {
+        "filename": "PSI-22_Experimental table_ACME E-FIELD Flames.csv",
+        "category": "experimentalTable",
+        "version": 2,
+        "size": 2475,
+        "sha256": "69090c357b83ae38d161d29001d1d32b40fd77b13324ca6585ee990cdceef524",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+        "expected_headers": [
+          "Test Type",
+          "Test Day",
+          "Year",
+          "Month",
+          "Date",
+          "Mesh Polarity",
+          "Fuel Bottle",
+          "Fuel Conc",
+          "Flames Ignited",
+          "Notes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-10",
+    "title": "Advanced Combustion via Microgravity Experiments / Flame Design",
+    "files": [
+      {
+        "filename": "PSI-10_Experimental table_Flame Design_Normal Flame.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 26933,
+        "sha256": "4a663292bd3f65201943cc71bd661a70383639276a9176f64105b285bf0b6deb",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+        "expected_headers": [
+          "Flame Type",
+          "Day",
+          "Fuel",
+          "Test",
+          "Xfuel",
+          "mfuel (mg/s)",
+          "mN2 (mg/s)",
+          "mtot (mg/s)",
+          "XO2 (init)",
+          "XO2 (final)",
+          "pinit (atm)",
+          "pfinal (atm)",
+          "pmean (atm)",
+          "mean Zst",
+          "Tad (K)"
+        ]
+      },
+      {
+        "filename": "PSI-10_Experimental table_Flame Design_Inverse Flame.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 17314,
+        "sha256": "97933ee9ae0b9ebc6b948a67485a0fe2f8218f753253a4f2be93c40d374c44e4",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+        "expected_headers": [
+          "Flame Type",
+          "Day",
+          "Test",
+          "XO2",
+          "mO2 (mg/s)",
+          "mN2 (mg/s)",
+          "mtot (mg/s)",
+          "XC2H4 initial",
+          "XC2H4 final",
+          "pinit (atm)",
+          "pfinal (atm)",
+          "pmean (atm)",
+          "mean Zst",
+          "Tad (K)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-159",
+    "title": "Advanced Combustion via Microgravity Experiments / Cool Flames Investigation with Gases",
+    "files": [
+      {
+        "filename": "PSI-159_Experimental table_CFI-G_Normal Flames.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 22166,
+        "sha256": "d95a621c3fbd27d204dd32ed29fa17d68f2b779d6a523cde8479ed7ebaa5251a",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+        "expected_headers": [
+          "Flame Type",
+          "Day",
+          "Fuel",
+          "Test",
+          "Cool flame?",
+          " XO2 before test",
+          "XO2  after test",
+          "approx p (bar)",
+          "Xf",
+          "mHC (mg/s)",
+          "TFP",
+          "Tad (K)",
+          "Zst",
+          "Hot ignition",
+          "burn time (sec)",
+          "Self-ext or flow term",
+          "Peak burner T (C )",
+          "Comments"
+        ]
+      },
+      {
+        "filename": "PSI-159_Experimental table_CFI-G_Inverse Flames.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 39422,
+        "sha256": "d4d44f8b9896936728748e34d1b6ad0812032a92fa5289599b708c138e3a9b39",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+        "expected_headers": [
+          "Flame Type",
+          "Day",
+          "Fuel",
+          "Test",
+          "Xf  before test",
+          "Xf  after test",
+          "approx p (bar)",
+          "XO2",
+          "HC burnrate (mg/s)",
+          "O2 flow rate (mg/s)",
+          "TFP",
+          "Tad (K)",
+          "Zst",
+          "Hot ignition",
+          "burn time (sec)",
+          "Self -ext or flow term",
+          "Peak burner Temp (C)",
+          "Peak burner temp (K)",
+          "Color",
+          "Comments"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-107",
+    "title": "Smoke Point In Co-flow Experiment",
+    "files": [
+      {
+        "filename": "PSI-107_Experimental table_Spice.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 31205,
+        "sha256": "fb0d7e60cf5367afb429089e9901d27288f78038efd26c8de1db4fbe04117136",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+        "expected_headers": [
+          "GMT date",
+          "GMT ignition",
+          "GMT  Flame Off ",
+          "Fuel",
+          "Nozzle (mm)",
+          "Fuel Rate (sccm)",
+          "Fuel Rate (mg/s)",
+          "HC Fuel Rate (mg/s)",
+          "Air Rate (cm/s)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-106",
+    "title": "Structure and Liftoff In Combustion Experiment",
+    "files": [
+      {
+        "filename": "PSI-106_Experimental table_Slice.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 734,
+        "sha256": "89ef980810ca6d9aa8be817b42e36cd2adff23f5e9058361b5a33d18b4363f4d",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
+        "expected_headers": [
+          "Test Date",
+          "Fuel Type"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-100",
+    "title": "Spacecraft Fire Experiment-III",
+    "files": [
+      {
+        "filename": "PSI-100_Experimental table_SAFFIRE-3.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 239,
+        "sha256": "4d3c717ec20dd0247db670b2784a9fd7d746788bc54a936f80693e48eb8cd117",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+        "expected_headers": [
+          "Sample Number ",
+          "Material",
+          "Sample Thickness",
+          "Sample Length",
+          "Sample Width",
+          "Air Flow ",
+          "Direction",
+          "Camera 1",
+          "Camera 2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-102",
+    "title": "Smoke and Aerosol Measurement Experiment",
+    "files": [
+      {
+        "filename": "PSI-102_Experimental table_SAME.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 331,
+        "sha256": "268d1e121d2f211b124407dd32b9475617bd269ede2c2d1749441da3e949a2af",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+        "expected_headers": [
+          "Sample #",
+          "Sample Material  ",
+          "Air Flow (cm/s)",
+          "Weight loss rate (mg/min)",
+          "Aging Duration (minutes)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-69",
+    "title": "Flame Extinguishment Experiment",
+    "files": [
+      {
+        "filename": "PSI-69_Experimental table_FLEX.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 24776,
+        "sha256": "37c88ce8ae9391b7544ff630a45ce87543d04d317cdbfbed104fe7d5c27e1b96",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+        "expected_headers": [
+          "FLEX Test #",
+          "FLEX Identifier",
+          "Test Date",
+          "Test GMT",
+          "Fuel",
+          "Ambient pressure; mmHg",
+          "O initial ambient composition; mole fraction",
+          "N initial ambient composition; mole fraction",
+          "CO initial ambient composition; mole fraction",
+          "He initial ambient composition; mole fraction",
+          "Droplet initial diameter; mm",
+          "Visible flame extinction diameter; mm",
+          "Burning rate; mm",
+          "Burn time; s",
+          "Test end"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-39",
+    "title": "Cool Flames Investigation",
+    "files": [
+      {
+        "filename": "PSI-39_Experimental table_CFI.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 7792,
+        "sha256": "fb898e28762353aa132c16b886dbd207a024b1dd3c9bed5928d70d8036d2ec7e",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+        "expected_headers": [
+          "Flex Number",
+          "Test Date",
+          "Local Time",
+          "CIR ",
+          "Pressure",
+          "Oxygen",
+          "Nitrogen",
+          "Helium",
+          "Fiber",
+          "Fuel "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-21",
+    "title": "Advanced Combustion via Microgravity Experiments / Coflow Laminar Diffusion Flame",
+    "files": [
+      {
+        "filename": "PSI-21_Experimental table_CLD Flame.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 2454,
+        "sha256": "9fafbc5b3dddaf715ce8025ed9154ce297803f7b69a935f077ec26c8249e44c0",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-21",
+        "expected_headers": [
+          "Test Type",
+          "Test Day",
+          "Fuel MFC",
+          "N2 MFC",
+          "Fuel Bottle",
+          "Fuel conc. Range",
+          "Flames ignited",
+          "Notes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-68",
+    "title": "Flame Extinguishment Experiment - 2",
+    "files": [
+      {
+        "filename": "PSI-68_Experimental table_Flex2.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 1029,
+        "sha256": "cc57ad1bd9977aa13e7ac6c3aa618303012686e232b36c052c6a9f1a74e5f528",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
+        "expected_headers": [
+          "Sample (Fuel Type)",
+          "Initial Droplet Diameter (mm)",
+          "Ambient Gas Mixture ",
+          "Oxygen Mole Fraction",
+          "Ambient Pressure (atm)",
+          " Ambient Temperature (C)",
+          "Flow Velocity (cm/s)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-26",
+    "title": "Burning and Suppression of Solids",
+    "files": [
+      {
+        "filename": "PSI-26_Experimental table_BASS.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 4726,
+        "sha256": "ccfc3c54d948b64a1c5d2596a63c7c8019e51df0c91a1d62f039f48fa28c300f",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+        "expected_headers": [
+          "Date",
+          "GMT",
+          "As Run Test #",
+          "Test #",
+          "Sample #",
+          "Fuel Sample Material"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-117",
+    "title": "Effect of External Thermo-Convective Perturbation on Cool Flame Dynamics: A Multidimensional Multi-Physics CFD Analysis",
+    "files": []
+  },
+  {
+    "id": "PSI-23",
+    "title": "Advanced Combustion via Microgravity Experiments-Structure and Response of Spherical Diffusion Flames",
+    "files": [
+      {
+        "filename": "PSI-23_Experimental table_ACME s-Flame.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 2456,
+        "sha256": "16cd10f50bd2e962887c8eb4077e5a9b3e790c78de8e0361c0b77e19300be7cf",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+        "expected_headers": [
+          "Test Type",
+          "Test Day*",
+          "Year",
+          "Month",
+          "Date",
+          "Atmosphere*",
+          "Fuel Bottle",
+          "Flames Ignited*",
+          "Notes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-20",
+    "title": "Advanced Combustion via Microgravity Experiments - Burning Rate Emulator",
+    "files": [
+      {
+        "filename": "PSI-20_Experimental table_ACME BRE.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 1113,
+        "sha256": "4aa5d3f98708ceacced5c620d46858b9965f8d4d941b203229f46467d53e5ab7",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+        "expected_headers": [
+          "Year",
+          "Month",
+          "Date",
+          "Burner Size (mm)",
+          "Fuel Bottle",
+          "Oxygen Conc (percent)",
+          "Flames Ignited",
+          "Notes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-142",
+    "title": "Quantitative Studies of Cool Flame Transitions at Radiation / Stretch Extinction Using Counterflow Flames",
+    "files": [
+      {
+        "filename": "PSI-142_Experimental table_Data Summary Table.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 727,
+        "sha256": "c66d135b0053590d239f06b9e8627d826e3d726b8443fd2cbccc37484b6a8e7f",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-142",
+        "expected_headers": [
+          "Data ID",
+          "Data Description",
+          "Reference Publication Link",
+          "Figure ID in Reference"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-60",
+    "title": "Computational and Experimental Analysis of SPICE Data Sets",
+    "files": []
+  },
+  {
+    "id": "PSI-62",
+    "title": "Concurrent Flame Spread Modeling using Flamelet Generated Manifolds in Microgravity with Comparison to BASS Experiments using Two-Color Tomography",
+    "files": []
+  },
+  {
+    "id": "PSI-99",
+    "title": "Spacecraft Fire Experiment-II",
+    "files": [
+      {
+        "filename": "PSI-99_Experimental table_SAFFIRE-2.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 1973,
+        "sha256": "3c24390b9ef86f3d1ebaab911a1a3cc95a8759aebf42062371370e6d4b31b8ac",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+        "expected_headers": [
+          "Sample Number",
+          "Material",
+          "Samle Thickness ",
+          "Sample Length ",
+          "Sample Width (cm)",
+          "Air Flow (cm/s)",
+          "Percent O2 (Note 1)",
+          "Ignition Power (W)",
+          "Ignition Time (s)",
+          "Burn Time (s)",
+          "Flow Direction",
+          "?-g Burn Length",
+          "?-g Spread Length",
+          "1-g Burn Length",
+          "1-g Spread Rate",
+          "Camera 1",
+          "Camera 2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-25",
+    "title": "Burning and Suppression of Solids - II",
+    "files": [
+      {
+        "filename": "PSI-25_Experimental table_BASS-II.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 16590,
+        "sha256": "71e792bf6b5fb5ea620c5dd70fbbac05515992e12aefcf5dff47312caa48c042",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+        "expected_headers": [
+          "PI",
+          "Test #",
+          "Date",
+          "GMT",
+          "Sample #",
+          "Fuel Sample Material",
+          "Flow restrictor",
+          "Fan display",
+          "Air display",
+          "Radiometer gain   (1000   250   50   10)",
+          "Total Frames Shot",
+          "Calibrated  initial O2 % by vol ",
+          "Calibrated final O2 % by vol",
+          "Initial CO2 % by vol",
+          "Final CO2 % by vol",
+          "Initial CO (ppm)",
+          "Final CO (ppm)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-115",
+    "title": "Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity",
+    "files": []
+  },
+  {
+    "id": "PSI-47",
+    "title": "Dust and Aerosol Measurement Feasibility Test / Dust and Aerosol Measurement Feasibility Test-2",
+    "files": [
+      {
+        "filename": "PSI-47_Experimental table_DAFT.csv",
+        "category": "experimentalTable",
+        "version": 2,
+        "size": 518,
+        "sha256": "d9d1a436c6e7bbc410b433e04575fe7dedaff763b5237d688089929b7393b5c0",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
+        "expected_headers": [
+          "Session Name",
+          "Actual Day",
+          "Hardware Description",
+          "Sample Material",
+          "Sampled Location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-98",
+    "title": "Spacecraft Fire Safety Experiment-I",
+    "files": [
+      {
+        "filename": "PSI-98_Experimental table_SAFFIRE-1.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 469,
+        "sha256": "c01f29c62455f0a3b512290ab85e5687ecded326733189f002f580368402308d",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+        "expected_headers": [
+          "Sample Number ",
+          "Material",
+          "Sample Thickness (cm)",
+          "Sample Length (cm)",
+          "Sample Width (cm)",
+          "Air Flow (cm/s)",
+          "Percent O2",
+          "Ignition Power (W)",
+          "Ignition Time (s)",
+          "Burn Time (s)",
+          "Flow Direction ",
+          "Camera 1",
+          "Camera 2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PSI-101",
+    "title": "Smoke Aerosol Measurement Experiment-Reflight",
+    "files": [
+      {
+        "filename": "PSI-101_Experimental table_SAME-R.csv",
+        "category": "experimentalTable",
+        "version": 1,
+        "size": 5674,
+        "sha256": "87164b7dc9168a4273c159f7a9f23699afbd06ad97b77974377e79b9bf8a3bef",
+        "downloaded_utc": "2026-11-15",
+        "source": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+        "expected_headers": [
+          "Sample Type",
+          "SAME Test #",
+          "Description",
+          "Date",
+          "Inlet velocity (cm/s)",
+          "Rt/R0",
+          "Duration (sec)",
+          "Primary aging time (sec)",
+          "Primary mixing time (sec)",
+          "Net aging time (sec)"
+        ]
+      }
+    ]
+  }
+]
